@@ -1,5 +1,5 @@
 {
-  "name": "react-p5",
+  "name": "@godtaehee/react-p5",
   "version": "1.4.1",
   "description": "This Component lets you integrate p5 Sketches into your React App",
   "main": "./build/index.js",
@@ -10,13 +10,13 @@
     "p5js"
   ],
   "repository": {
-    "url": "Gherciu/react-p5",
+    "url": "godtaehee/react-p5",
     "type": "git"
   },
   "author": {
-    "name": "Gherciu Gheorghe",
-    "email": "gherciu553@gmail.com",
-    "url": "https://gherciu.github.io/"
+    "name": "godtaehee",
+    "email": "godtaehee@gmail.com",
+    "url": "https://godtaehee.github.io/"
   },
   "collective": {
     "type": "opencollective",
